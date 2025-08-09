@@ -2,14 +2,14 @@
 
 
 
-This repository focuses on the simulated Monocular Vision/INS/GNSS fusion, it is based on https://github.com/huanhexiao/MSCKF-VIG (on the way).
+This repository focuses on the simulated Monocular Vision/INS/GNSS fusion, it is based on https://github.com/impce-lg/MSCKF-VIG (on the way).
 The difference of the experimental and simulated data is mainly on the vision front-end, the format of INS and GNSS is same to the real tests.
 The simulated version is easy and friendly for you to quickly master the principle of multi-sensor integrated navigation.
 
 The data is produced by a self-developed software, 
 you can contact Dr. Ronghe Jin (huanhexiao@whu.edu.cn or 773792173@qq.com) for the simulation code if you have a need.
 
-MSCKF-VIG (https://github.com/huanhexiao/MSCKF-VIG) will be available as soon as the code and data are ready.
+MSCKF-VIG (https://github.com/impce-lg/MSCKF-VIG) will be available as soon as the code and data are ready.
 
 ## Functions
 
@@ -35,7 +35,7 @@ MSCKF-VIG (https://github.com/huanhexiao/MSCKF-VIG) will be available as soon as
 
 ```shell
 
-git clone https://github.com/huanhexiao/MSCKF-VIG_sim
+git clone https://github.com/impce-lg/MSCKF-VIG_sim
 
 mkdir build && cd build 
 
